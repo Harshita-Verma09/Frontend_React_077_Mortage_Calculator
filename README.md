@@ -66,3 +66,5 @@ npm run lint
 1. Enter the loan amount, interest rate, and loan term (years).
 2. Click **Calculate** to see your monthly payment (EMI).
 
+   
+
